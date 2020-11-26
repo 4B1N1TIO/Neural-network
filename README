@@ -1,0 +1,12 @@
+Code for an OCR neural network
+
+The csv data was taken from
+
+https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork/tree/master/mnist_dataset
+
+This testsets are quite small and therefore the training is not sufficient. 
+This is just for educational purpose!
+
+
+
+
